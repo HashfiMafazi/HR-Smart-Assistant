@@ -1,5 +1,7 @@
 # 🤖 HR Assistant (Offline RAG with Ollama)
 
+<img width="1885" height="437" alt="2026-07-13_11-46" src="https://github.com/user-attachments/assets/7832a9f1-d4af-48d8-ad6c-38876dc343b3" />
+
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python)
